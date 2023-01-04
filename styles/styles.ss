@@ -1,0 +1,11 @@
+/* style sheet */
+
+div {
+	color: white;
+	background-color: black;
+}
+
+p
+{
+	color: red;
+}
